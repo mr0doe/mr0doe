@@ -123,26 +123,7 @@
 <br>
 <br>
 <br>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 <div align="left" style="margin-left: 15em; style="margin-right: 10em;>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mr0doe.mr0doe&left_text=usr_table.%7Bvisited%7D"  />
 </div>
-<style>
-  body {
-    background-color: #121212;
-    color: #e0e0e0;
-  }
-  
-  a {
-    color: #bb86fc;
-  }
-  
-  a:visited {
-    color: #b39ddb;
-  }
-  
-  pre, code {
-    background-color: #1e1e1e;
-    color: #d4d4d4;
-  }
-</style>
