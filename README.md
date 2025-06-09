@@ -1,0 +1,148 @@
+<h2 align="center">(っ◔◡◔)っ ♥ Mr0Doe ♥</h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/204567910"  />
+
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" height="30" alt="debian logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" height="30" alt="firefox logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" height="30" alt="gimp logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
+
+<div align="right">
+  <a href="https://www.youtube.com/@0.ua" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/6rfdd45/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/brudere" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FRJwX8uzgNZhyh8RbYk%2Fgiphy.gif" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://german.dev.tc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=german.dev&logo=gitlab&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://il.rf.gd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=il.rf.gd&logo=gitlab&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/mr0doe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=github&logo=github&label=&color=5b1697&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FRJwX8uzgNZhyh8RbYk%2Fgiphy.gif" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  </a>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" style="display:block; margin:auto;" />
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="left" style="margin-left: 15em; style="margin-right: 10em;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr0doe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr0doe&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr0doe&radius=16&theme=gotham&area=true&order=5&custom_title=major%20updates%20in%20'mr0doe'%20repos&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="right" style="margin-right: 15em;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=globalforums&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=globalforums&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=globalforums&radius=16&theme=gotham&area=true&order=5&custom_title=major%20updates%20in%20'GlobalForums'%20repos&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="left" style="margin-left: 15em; style="margin-right: 10em;>
+  <img src="https://github-readme-stats.vercel.app/api?username=button360&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=button360&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=button360&radius=16&theme=gotham&area=true&order=5&custom_title=major%20updates%20in%20'Button360'%20repos&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="left" style="margin-left: 15em; style="margin-right: 10em;>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mr0doe.mr0doe&left_text=usr_table.%7Bvisited%7D"  />
+</div>
+<style>
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  a {
+    color: #bb86fc;
+  }
+  
+  a:visited {
+    color: #b39ddb;
+  }
+  
+  pre, code {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+  }
+</style>
