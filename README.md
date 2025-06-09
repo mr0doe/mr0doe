@@ -79,10 +79,10 @@
 <br>
 <br>
 
-<div align="left" style="margin-left: 15em; style="margin-right: 10em;">
+<div align="left" style="margin-left: 15em; style="margin-right: 10em;>
   <img src="https://github-readme-stats.vercel.app/api?username=mr0doe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr0doe&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr0doe&radius=16&theme=gotham&area=true&order=5&custom_title=major%20updates%20in%20'mr0doe'%20repos&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr0doe&radius=16&theme=gotham&area=true&order=5&custom_title=major%20updates%20in%20'Button360'%20repos&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 <br>
 <br>
@@ -94,10 +94,10 @@
 <br>
 <br>
 
-<div align="right" style="margin-right: 15em;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=globalforums&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="left" style="margin-left: 15em; style="margin-right: 10em;>
   <img src="https://github-readme-stats.vercel.app/api?username=globalforums&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=globalforums&radius=16&theme=gotham&area=true&order=5&custom_title=major%20updates%20in%20'GlobalForums'%20repos&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=globalforums&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=globalforums&radius=16&theme=gotham&area=true&order=5&custom_title=major%20updates%20in%20'Button360'%20repos&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 <br>
 <br>
