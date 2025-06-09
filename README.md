@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="REDIRECT TO PROFILE PAGE" width="1000" height="120">
-  <title>REDIRECT TO PROFILE PAGE</title>
   <g shape-rendering="crispEdges">
     <rect fill="#5b1697" height="300" width="1000"/>
   </g>
