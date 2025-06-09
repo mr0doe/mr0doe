@@ -124,7 +124,12 @@
 <br>
 <br>
 <div align="left" style="margin-left: 15em; style="margin-right: 10em;>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe></div>
+<script>
+  const placeholder = document.getElementById('video-placeholder');
+  if (placeholder) {
+    placeholder.innerHTML = `<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>`;
+  }
+</script></div>
 <div align="left" style="margin-left: 15em; style="margin-right: 10em;>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mr0doe.mr0doe&left_text=usr_table.%7Bvisited%7D"  />
 </div>
